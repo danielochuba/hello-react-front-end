@@ -34,9 +34,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [RECIPE APP] <a name="about-project"></a>
+# 📖 [hello-react-front-end] <a name="about-project"></a>
 
-**[hello-rails-back-end]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use rails app as a backend.
+**[hello-react-front-end]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use react app as a front end of a rails app backend.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 Link: [Back end](https://github.com/danielochuba/hello-rails-back-end/pull/1)
