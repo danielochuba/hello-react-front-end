@@ -18,7 +18,7 @@
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
     "import/no-unresolved": "off",
     "react/react-in-jsx-scope": "off",
-    "@babel/eslint-plugin/rule-name": "value" // Specify your @babel rules here
+    "@babel/eslint-plugin/rule-name": 2 // Specify your @babel rules here
   },
   "ignorePatterns": [
     "dist/",
