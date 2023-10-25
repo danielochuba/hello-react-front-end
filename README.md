@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1><b>hello-rails-back-end</b></h1>
+<h1><b>hello-react-front-end</b></h1>
  
   <img src="./page1.png" alt="logo" width="200"  height="auto">
   <img src="./page2.png" alt="logo" width="200"  height="auto">
