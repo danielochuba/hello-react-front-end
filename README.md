@@ -56,14 +56,14 @@ Link: [Back end](https://github.com/danielochuba/hello-rails-back-end/pull/1)
 </details>
 
 <details>
-<summary>Ruby</summary>
+<summary>Front-End</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/">Ruby</a></li>
+    <li><a href="https://www.react.dev">React</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Rails</summary>
+<summary>Backend</summary>
   <ul>
     <li><a href="https://www.rubyonrails.org/">Rails</a></li>
   </ul>
@@ -104,20 +104,18 @@ Clone this repository to your desired folder:
 ```
 ### Install
 
-Go to your /budget-app folder:
+Go to your /hello-react-front-end folder:
 
 ```sh
-  cd messages_app
-  bundle install
+  cd hello-react-front-end
   npm install
   npm run build
-  rails server
 ```
 
 ### Usage
 
 ```sh
-  rails server
+  yarn dev
 ```
 
 
