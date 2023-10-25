@@ -43,11 +43,8 @@ Link: [Back end](https://github.com/danielochuba/hello-rails-back-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
-1- Ruby 3.2.2<br>
-2- Rails 7.0.7.2<br>
-3- PostgreSQL<br>
-4- Gitflow<br>
-5- Rubocop<br>
+1- React
+2- Redux
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -103,7 +100,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone "https://github.com/danielochuba/hello-rails-back-end.git"
+  git clone "https://github.com/danielochuba/hello-react-front-end.git"
 ```
 ### Install
 
