@@ -4,13 +4,7 @@
 
 <h1><b>hello-react-front-end</b></h1>
  
-  <img src="./page1.png" alt="logo" width="200"  height="auto">
-  <img src="./page2.png" alt="logo" width="200"  height="auto">
-  <img src="./erd_diagram.png" alt="logo" width="200"  height="auto">
-  <br/>
-
 </div>
-
 
 # 📗 Table of Contents
 
@@ -18,7 +12,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [LINK TO BACK-END](#back-end)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -38,7 +32,7 @@
 
 **[hello-react-front-end]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use react app as a front end of a rails app backend.
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## LINK TO BACK-END <a name="back-end"></a>
 Link: [Back end](https://github.com/danielochuba/hello-rails-back-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
